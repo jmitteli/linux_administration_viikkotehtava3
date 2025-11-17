@@ -71,6 +71,11 @@ def home():
         <p><strong>MySQL-server time is:</strong> {db_time}</p>
         <p><strong>THIS WAS FUN ENJOY THE ASCII ART!!!!</strong></p>
 
+        <p>
+        <a href="/data-analysis/">Siirry data-analysis -sivulle</a>
+        </p>
+
+
         <div class="ascii-lemp">{lemp_ascii}</div>
         <div class="ascii-stack">{stack_ascii}</div>
       </body>
