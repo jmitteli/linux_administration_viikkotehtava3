@@ -75,7 +75,9 @@ def home():
         <div class="ascii-stack">{stack_ascii}</div>
         
         <p>
-        <a href="/data-analysis/">Siirry data-analysis -sivulle</a>
+          <a href="/data-analysis/" style="font-size: 24px;">
+            Siirry data-analysis -sivulle
+          </a>
         </p>
 
       </body>
